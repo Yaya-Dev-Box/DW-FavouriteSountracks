@@ -1,0 +1,25 @@
+body {
+    background-image: url("dynasty9.jpg");
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font: 3em fantasy;
+    text-decoration: underline;
+}
+
+li {
+    margin: 2.5px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font: 1.25em helvetica;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
