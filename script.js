@@ -1,1 +1,3 @@
-console.log("Hello Dynasty!!!")
+document.querySelector("h1").addEventListener("click",function(){
+    console.log("Hello Dynasty!!!")
+} )
