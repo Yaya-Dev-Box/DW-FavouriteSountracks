@@ -1,5 +1,9 @@
 body {
     background-image: url("dynasty9.jpg");
+    background-repeat: no-repeat;            /* 2. Prevent the image from repeating */
+    background-position: center center;      /* 3. Center the image on the page */
+    background-size: cover;                  /* 4. Scale the image to cover the entire container */
+    background-attachment: fixed;            /* 5. Keep the image fixed in the viewport during scrolling (optional, but prevents white space at the bottom) */
 }
 
 h1 {
